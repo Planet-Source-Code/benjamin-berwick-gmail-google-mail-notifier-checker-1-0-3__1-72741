@@ -1,0 +1,3 @@
+find(STRING TO FIND HERE -- can delete this line)replace(REPLACE IT WITH...)
+find(&quot;)replace(")
+find(&#39;)replace(')
