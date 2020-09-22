@@ -1,0 +1,32 @@
+<tagline>New messages in your Gmail Inbox</tagline>  'just a title saying yay new email
+
+<fullcount>2</fullcount> 'number of new emails, also displays 0 when no new emails. more reliable than tagline
+
+LoopHere:
+
+<entry> 'data for a single email starts here
+
+<title>Email Title Here!</title>
+
+<summary>Email content here!</summary>
+
+
+<issued>2009-12-08T14:36:30Z</issued>
+  'date recieved
+
+<author> 'data containing senders name and email is within
+
+<name>Senders Name here!</name>
+
+
+<email>senders email here!</email>
+
+</author>  'end of data containing senders name / email
+
+</entry>   'data for a single email ends here
+
+
+Goto LoopHere
+
+--------ENTRY-------
+
